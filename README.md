@@ -1,6 +1,6 @@
 # Python-Programers-Note-Competitive-
 
-#Smallest positive float64 number
+# Smallest positive float64 number
 ```
 import numpy as np
 np.finfo(np.float64).eps = 2.2204460492503131e-16
